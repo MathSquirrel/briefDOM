@@ -1,9 +1,10 @@
-# briefDOM
-What Ilya Kantor forgot to say. What you need to know. What is supplement of textbook.
+## Supplement to *[JS-TUTORIAL](javascript.info):DOM*
+###### *Sorted information regarding the tutorial about DOM-architecture from W3C and ES6 standarts by ~~artificial intelligence~~* 
+### Why
+1. The tutorial only introduce you to junior-developing and you won't know architecture of the language. If you want to deal with JS, you for the exact address.
+1. Material of standarts has its unique content and material, that I want to include here.
+1. Standarts are long and boring, because there's many references and there is little differents from Kantor's textbook.
 
-Hello, here you can see sorted information about DOM-architecture from W3C and ES6 standarts and tutorials. Do not read them by yourself!
-##### But why?
-## It's really long and boring, because there's many references and there is little different from Kantor's textbook material. 
+**So I wrote another information about DOM in view of brief tutorial. I hope that I can supply Kantor's tutorial.**
 
-##### And why should I read you?
-## Content, that is located here is modern, iupdating, 
+------
