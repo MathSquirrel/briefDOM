@@ -12,8 +12,6 @@
 So I wrote another information about DOM in view of *__brief tutorial__*. I hope that I can supply Kantor's tutorial.
 
 ------------
-## Get started
-I believed that you decide to do it. Relax and rlearn the main rule:
 #### Feedback me
 If you have a supplement or a question, please do not be indifferent. 
 
