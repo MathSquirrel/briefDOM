@@ -17,4 +17,4 @@ So I wrote another information about JS and DOM in view of *__brief tutorial__*.
 Links to updates will be recorded on the special News-page.
 
 ### Feedback me
-If you have a supplement or a question, please do not be indifferent. 
+If you have a supplement or a question, please do not be indifferent. Make a comment or write me by email: alexmathsquirrel@gmail.com.
