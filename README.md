@@ -1,5 +1,5 @@
-# Supplement to [Kantor's javascript-tutorial](javascript.info)
-###### *Sorted information regarding the tutorial about DOM-architecture from W3C and ES6 standarts by ~~machine learning~~.* 
+# Supplement to [Kantor's tutorial of javascript](javascript.info)
+###### *Sorted information regarding the tutorial about js-architecture from W3C and ES6 standarts by ~~machine learning~~.* 
 #### Why
 
 1. The tutorial only introduce you to junior-developing and you won't **know architecture** of the language. If you want to deal with JS, you for the exact address.
