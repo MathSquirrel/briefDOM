@@ -1,4 +1,4 @@
-# Supplement to [javascript Kantor's tutorial](javascript.info)
+# Supplement to [Kantor's javascript-tutorial](javascript.info)
 ###### *Sorted information regarding the tutorial about DOM-architecture from W3C and ES6 standarts by ~~machine learning~~.* 
 #### Why
 
@@ -8,7 +8,7 @@
 
 1. Standarts are long and boring, because there's **many references** and there is **little differents** from Kantor's textbook.
 
-So I wrote another information about JS and DOM in view of *__brief tutorial__*. I hope that i can supplement Kantor's tutorial.
+###### So I wrote another information about JS and DOM in view of *__brief tutorial__*. I hope that i can supplement Kantor's tutorial.
 
 #### Updates
 Links to updates will be recorded on special *[News-page](/)*.
