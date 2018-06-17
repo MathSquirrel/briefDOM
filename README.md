@@ -26,3 +26,6 @@ If you have a supplement or a question, please do not be indifferent. Make a com
 1. [W3C DOM Level 3 Events](https://www.w3.org/TR/DOM-Level-3-Events)
 1. [W3C DOM 4](https://www.w3.org/TR/dom/)
 1. until everything...
+
+#### My goal
+Is to update Kantor's tutorial,having studied some topics by myself.
